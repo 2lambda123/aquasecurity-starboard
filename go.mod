@@ -1,7 +1,6 @@
 module github.com/aquasecurity/starboard
 
 go 1.23
-
 require (
 	github.com/caarlos0/env/v6 v6.10.0
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc
@@ -13,7 +12,7 @@ require (
 	github.com/gorhill/cronexpr v0.0.0-20180427100037-88b0669f7d75
 	github.com/hashicorp/go-version v1.5.0
 	github.com/onsi/ginkgo v1.16.5
-	github.com/onsi/gomega v1.33.1
+	github.com/onsi/gomega v1.35.1
 	github.com/open-policy-agent/opa v0.68.0
 	github.com/openshift/api v0.0.0-20221013123533-341d389bd4a7
 	github.com/spf13/cobra v1.8.1
@@ -21,11 +20,11 @@ require (
 	github.com/stretchr/testify v1.9.0
 	github.com/valyala/quicktemplate v1.7.0
 	gopkg.in/yaml.v3 v3.0.1
-	k8s.io/api v0.31.3
+	k8s.io/api v0.32.2
 	k8s.io/apiextensions-apiserver v0.31.3
-	k8s.io/apimachinery v0.31.3
+	k8s.io/apimachinery v0.32.2
 	k8s.io/cli-runtime v0.31.2
-	k8s.io/client-go v0.31.3
+	k8s.io/client-go v0.32.2
 	k8s.io/code-generator v0.31.3
 	k8s.io/klog/v2 v2.130.1
 	k8s.io/utils v0.0.0-20241104163129-6fe5fd82f078
@@ -70,7 +69,6 @@ require (
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510 // indirect
 	github.com/gorilla/mux v1.8.1 // indirect
 	github.com/gregjones/httpcache v0.0.0-20190611155906-901d90724c79 // indirect
-	github.com/imdario/mergo v0.3.16 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
