@@ -513,11 +513,11 @@ k8s.io/cli-runtime v0.31.2/go.mod h1:XROyicf+G7rQ6FQJMbeDV9jqxzkWXTYD6Uxd15noe0Q
 k8s.io/client-go v0.32.2 h1:4dYCD4Nz+9RApM2b/3BtVvBHw54QjMFUl1OLcJG5yOA=
 k8s.io/client-go v0.32.2/go.mod h1:fpZ4oJXclZ3r2nDOv+Ux3XcJutfrwjKTCHz2H3sww94=
 k8s.io/code-generator v0.23.0/go.mod h1:vQvOhDXhuzqiVfM/YHp+dmg10WDZCchJVObc9MvowsE=
-k8s.io/code-generator v0.31.3 h1:Pj0fYOBms+ZrsulLi4DMsCEx1jG8fWKRLy44onHsLBI=
-k8s.io/code-generator v0.31.3/go.mod h1:/umCIlT84g1+Yu5ZXtP1KGSRTnGiIzzX5AzUAxsNlts=
+k8s.io/code-generator v0.32.2 h1:CIvyPrLWP7cMgrqval2qYT839YAwCDeSvGfXgWSNpHQ=
+k8s.io/code-generator v0.32.2/go.mod h1:plh7bWk7JztAUkHM4zpbdy0KOMdrhsePcZL2HLWFH7Y=
 k8s.io/gengo v0.0.0-20210813121822-485abfe95c7c/go.mod h1:FiNAH4ZV3gBg2Kwh89tzAEV2be7d5xI0vBa/VySYy3E=
-k8s.io/gengo/v2 v2.0.0-20240826214909-a7b603a56eb7 h1:cErOOTkQ3JW19o4lo91fFurouhP8NcoBvb7CkvhZZpk=
-k8s.io/gengo/v2 v2.0.0-20240826214909-a7b603a56eb7/go.mod h1:EJykeLsmFC60UQbYJezXkEsG2FLrt0GPNkU5iK5GWxU=
+k8s.io/gengo/v2 v2.0.0-20240911193312-2b36238f13e9 h1:si3PfKm8dDYxgfbeA6orqrtLkvvIeH8UqffFJDl0bz4=
+k8s.io/gengo/v2 v2.0.0-20240911193312-2b36238f13e9/go.mod h1:EJykeLsmFC60UQbYJezXkEsG2FLrt0GPNkU5iK5GWxU=
 k8s.io/klog/v2 v2.0.0/go.mod h1:PBfzABfn139FHAV07az/IF9Wp1bkk3vpT2XSJ76fSDE=
 k8s.io/klog/v2 v2.2.0/go.mod h1:Od+F08eJP+W3HUb4pSrPpgp9DGU4GzlpG/TmITuYh/Y=
 k8s.io/klog/v2 v2.30.0/go.mod h1:y1WjHnz7Dj687irZUWR/WLkLc5N1YHtjLdmgWjndZn0=
