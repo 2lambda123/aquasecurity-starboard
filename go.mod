@@ -3,7 +3,7 @@ module github.com/aquasecurity/starboard
 go 1.23
 
 require (
-	github.com/caarlos0/env/v6 v6.10.0
+	github.com/caarlos0/env/v6 v6.10.1
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc
 	github.com/emirpasic/gods v1.18.1
 	github.com/go-logr/logr v1.4.2
