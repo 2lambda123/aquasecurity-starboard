@@ -188,7 +188,7 @@ jobs:
           username: ${{ secrets.AQUASEC_ACR_USERNAME }}
           password: ${{ secrets.AQUASEC_ACR_PASSWORD }}
       - name: Release
-        uses: goreleaser/goreleaser-action@v3
+        uses: goreleaser/goreleaser-action@v6
         with:
           version: v1.7.0
           args: release --rm-dist
