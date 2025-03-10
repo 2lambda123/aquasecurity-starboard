@@ -16,7 +16,7 @@ require (
 	github.com/open-policy-agent/opa v0.68.0
 	github.com/openshift/api v0.0.0-20221013123533-341d389bd4a7
 	github.com/spf13/cobra v1.8.1
-	github.com/spf13/pflag v1.0.5
+	github.com/spf13/pflag v1.0.6
 	github.com/stretchr/testify v1.10.0
 	github.com/valyala/quicktemplate v1.7.0
 	gopkg.in/yaml.v3 v3.0.1
