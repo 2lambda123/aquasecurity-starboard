@@ -1,7 +1,7 @@
 module github.com/aquasecurity/starboard
 
 go 1.23
-toolchain go1.23.7
+toolchain go1.24.1
 
 require (
 	github.com/caarlos0/env/v6 v6.10.1
@@ -24,10 +24,10 @@ require (
 	gopkg.in/yaml.v3 v3.0.1
 	k8s.io/api v0.32.2
 	k8s.io/apiextensions-apiserver v0.31.3
-	k8s.io/apimachinery v0.32.2
+	k8s.io/apimachinery v0.32.3
 	k8s.io/cli-runtime v0.31.2
 	k8s.io/client-go v0.32.2
-	k8s.io/code-generator v0.32.2
+	k8s.io/code-generator v0.32.3
 	k8s.io/klog/v2 v2.130.1
 	k8s.io/utils v0.0.0-20241104163129-6fe5fd82f078
 	sigs.k8s.io/controller-runtime v0.19.3
