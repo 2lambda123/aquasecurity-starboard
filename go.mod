@@ -1,7 +1,7 @@
 module github.com/aquasecurity/starboard
 
 go 1.23
-toolchain go1.23.7
+toolchain go1.24.1
 
 require (
 	github.com/caarlos0/env/v6 v6.10.1
@@ -14,7 +14,7 @@ require (
 	github.com/gorhill/cronexpr v0.0.0-20180427100037-88b0669f7d75
 	github.com/hashicorp/go-version v1.5.0
 	github.com/onsi/ginkgo v1.16.5
-	github.com/onsi/gomega v1.35.1
+	github.com/onsi/gomega v1.36.2
 	github.com/open-policy-agent/opa v1.2.0
 	github.com/openshift/api v0.0.0-20221013123533-341d389bd4a7
 	github.com/spf13/cobra v1.9.1
